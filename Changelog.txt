@@ -1,10 +1,12 @@
 .:: ADVANCE ROM PORTER CHANGELOG ::.
 
-v0.1
+v0.1 First version
 
-- First version
 - Install.sh
 - ResurrectionRemix.sh
 - Fix source sh
 - Index.sh
-- Add download source code RR
+- Added download source code (RR)
+- Added clean out directory (RR)
+- Added extract-files,download device files (RR)
+- Added build command (RR)
