@@ -97,7 +97,7 @@ echo ""
 echo "Git configure OK"
 echo "Extracting Source Code..."
 cd tools 
-zip source.zip
+unzip source.zip
 echo "Source code OK"
 rm source.zip
 cd ..
