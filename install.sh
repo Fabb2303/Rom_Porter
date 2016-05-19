@@ -95,10 +95,4 @@ nick=$nick
 git config --global user.name "${nick}"
 echo ""
 echo "Git configure OK"
-echo "Extracting Source Code..."
-cd tools 
-unzip source.zip
-echo "Source code OK"
-rm source.zip
-cd ..
 read
