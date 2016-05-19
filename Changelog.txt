@@ -1,9 +1,10 @@
 .:: ADVANCE ROM PORTER CHANGELOG ::.
 
-v0.1 (Not released)
+v0.1
 
 - First version
 - Install.sh
 - ResurrectionRemix.sh
 - Fix source sh
-- Install.sh
+- Index.sh
+- Add download source code RR
