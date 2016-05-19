@@ -48,6 +48,9 @@ Install git on your pc
       $ cd WORK_FOLDER/Rom_Porter
       $ . install.sh (Only the first time . The other times use .index.sh)
 
+# Changelog
+
+https://github.com/Fabb2303/Rom_Porter/blob/Romporter/Changelog.txt
 
 ver 0.1 
   
