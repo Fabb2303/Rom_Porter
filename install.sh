@@ -1,16 +1,13 @@
 #!/bin/bash
 
-#colors
-bldred=${txtbld}$(tput setaf 1) # Bold Red
-
-
-
-#Install index
-clear
-echo "Advance Rom Porter"
-echo "v1.0"
 #Install tools
-
+clear
+echo "========================"
+echo "Advance Rom Porter"
+echo "v0.1"
+echo "========================"
+echo " "
+echo " "
 echo "Press Enter to install all tools"
 read
 
@@ -84,7 +81,9 @@ echo "packages install OK..."
 echo "Press Enter"
 read
 clear
+echo "========================"
 echo "Git configure"
+echo "========================"
 echo "Insert your Github Email"
 read email
 email=$email
@@ -95,4 +94,35 @@ nick=$nick
 git config --global user.name "${nick}"
 echo ""
 echo "Git configure OK"
+echo "Press Enter"
 read
+clear
+echo "Config OK"
+echo "Next time run script index.sh (. index.sh)"
+echo "Press Enter"
+read
+. index.sh
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

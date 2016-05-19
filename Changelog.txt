@@ -4,3 +4,6 @@ v0.1 (Not released)
 
 - First version
 - Install.sh
+- ResurrectionRemix.sh
+- Fix source sh
+- Install.sh
