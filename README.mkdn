@@ -1,7 +1,7 @@
-# ADVANCE ROM PORTER
+# ADVANCED ROM PORTER
 
 
-Advance Rom Porter is a tool which simplifies the build for your device.
+Advanced Rom Porter is a tool which simplifies the build for your device.
 
 # Requirements
 
