@@ -1,12 +1,20 @@
 .:: ADVANCE ROM PORTER CHANGELOG ::.
 
+v0.2
+
+- Add xosp.sh
+- Fix ResurrectionRemix Script
+- Add Cyanogenmod script
+- Index/install.sh script fixes
+
+
 v0.1 First version
 
 - Install.sh
 - ResurrectionRemix.sh
 - Fix source sh
 - Index.sh
-- Added download source code (RR)
-- Added clean out directory (RR)
-- Added extract-files,download device files (RR)
-- Added build command (RR)
+- Add download source code (RR)
+- Add clean out directory (RR)
+- Add extract-files,download device files (RR)
+- Add build command (RR)
