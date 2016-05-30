@@ -8,6 +8,12 @@ Advanced Rom Porter is a tool which simplifies the build for your device.
 - Linux
 - Rooted devices
 
+# ROM
+
+- Cyanogenmod
+- ResurrectionRemix
+- Xosp
+
 # Download
 
 Install git on your pc
